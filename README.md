@@ -87,3 +87,8 @@ Example:
 ## Notes
 - Designed for Windows
 - No GUI windows beyond optional note input (May be included in future updates)
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+© 2025 Chinthanika Iddamalgoda
