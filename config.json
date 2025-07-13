@@ -1,0 +1,32 @@
+{
+  "symptoms": [
+    "Head",
+    "Hand",
+    "Leg",
+    "Back"
+  ],
+  "tags": [
+    "Pain",
+    "Numbness",
+    "Tingling",
+    "Other"
+  ],
+  "reminders": {
+    "Water Reminder": {
+      "interval_min": 1,
+      "message": "Take a sip of water!"
+    },
+    "Mood/Stress Check": {
+      "interval_min": 60,
+      "message": "Log your mood and stress."
+    },
+    "Stretch Break": {
+      "interval_min": 60,
+      "message": "Take a short movement break!"
+    },
+    "Snack Time": {
+      "interval_min": 180,
+      "message": "Consider a healthy snack."
+    }
+  }
+}
